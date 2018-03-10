@@ -14,9 +14,9 @@ Extract the zip file at your desired location on your system and provide the abs
 
 To install the libraries, first ensure you have pip installed. Then:
 
-	  $ pip install beautifulsoup4
-	  $ pip install selenium
-    	  $ pip install xlwt
+	$ pip install beautifulsoup4
+	$ pip install selenium
+	$ pip install xlwt
     
 Then you can just run the script giving the URL to the industry specific results page (where the comment to do so exists) and you will find your Excel sheet at the location you set for it to be written to (At the end of the script where the comment telling you to do so exists).
 
